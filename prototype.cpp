@@ -230,8 +230,6 @@ strvec stored_knowledge() {
         "The user is interested in cybernetics and control theory",
         "The user has studied Ashby's Law of Requisite Variety",
         "The user believes regulation is a fundamental concept in intelligence",
-        "The user is interested in systems that create regulators to manage environmental variables",
-        "The user discussed a room requiring regulation of temperature and humidity",
         "The user proposed a higher-level regulator that creates lower-level regulators",
         "The user is interested in building AI systems from cybernetic principles rather than scaling alone",
         "The user believes intelligence may emerge from layered regulatory structures",
@@ -241,17 +239,6 @@ strvec stored_knowledge() {
         "The user also uses C++ and Python",
         "The user wants to build local AI systems rather than relying entirely on cloud services",
         "The user is building a local RAG system as a portfolio project",
-        "The user intends for model backends to be replaceable",
-        "The user intends for database backends to be replaceable",
-        "The user plans to start with SQLite",
-        "The user plans to start with Ollama as the model backend",
-        "The user eventually wants direct model loading instead of Ollama",
-        "The project may be used to demonstrate engineering and AI skills to employers",
-        "The working project name is RagTag",
-        "The first database backend is SQLite",
-        "The first model backend is Ollama",
-        "The preferred implementation language is C++",
-        "The user owns a ThinkPad T15"
     };
     return knowledge;
 }
